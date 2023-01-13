@@ -7,7 +7,7 @@ trigger:
 - none
 
 pr:
-    drafts: false
+    drafts: true
     branches:
         include:
             - main
